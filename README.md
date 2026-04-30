@@ -133,7 +133,6 @@ The build output will be generated in the `dist/` directory.
 
 - **Email**: binhdt0452@gmail.com
 - **GitHub**: https://github.com/Binh05
-- **Phone**: +84 703742386
 
 ## 📄 License
 
